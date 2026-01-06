@@ -1,0 +1,8 @@
+{
+  "name": "BailAid Kenya",
+  "description": "A comprehensive bail assistance platform for the Kenyan justice system, featuring a Police Dashboard for case verification and a User App for multi-contributor bail payments via M-Pesa.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
